@@ -1,0 +1,11 @@
+{
+  "name": "classrepeatedlearning-1",
+  "version": "1.0.0",
+  "description": "\"클래스룸 클론코딩'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KimInteger",
+  "license": "MIT"
+}
