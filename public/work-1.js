@@ -44,3 +44,5 @@ person.job = '백수탈출지망생';
 console.log('Name:', person.name);
 console.log('Age:', person.age);
 console.log('Job:', person.job);
+
+console.dir(person);
