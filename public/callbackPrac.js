@@ -1,1 +1,20 @@
-console.log('와 콜백함수 아시는구나!');
+function a () {
+  function b () {
+    function c () {
+      function d () {
+        function e () {
+          function f () {
+            console.log('f');
+          }
+          f()
+        }
+        e()
+      }
+      d()
+    }
+    c()
+  }
+  b()
+}
+
+a();
